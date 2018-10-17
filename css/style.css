@@ -1,0 +1,8 @@
+body {
+    text-align: center;
+}
+canvas{
+ position: relative;
+ left: 0;
+ right: 0;
+}
